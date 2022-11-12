@@ -8,7 +8,7 @@ let pregunta
 let posibles_respuestas
 btn_correspondiente = [
   select_id("btn1"), select_id("btn2"),
-  select_id("btn3"), select_id("btn4")
+  select_id("btn3"), select_id("btn4") 
 ]
 npreguntas = []
 
