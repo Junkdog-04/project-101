@@ -1,0 +1,332 @@
+[
+  {
+    "pregunta": "¿Con que servicio de Azure puedes tener acceso a capacidad de proceso anticipadamente y obtienes grandes descuentos?",
+    "respuesta": "Azure Reserved Virtual Machine Instances",
+    "incorrecta1": "Azure Container Instances",
+    "incorrecta2": "Máquinas Virtuales de acceso puntual",
+    "incorrecta3": "Virtual Machine Scale Sets",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Se puede asociar un NSG (Grupo de Seguridad en Red) a una sub red virtual?",
+    "respuesta": "Si se puede porque es una interconexión de una red",
+    "incorrecta1": "No se puede porque es un recurso fuera de la red.",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Se puede asociar un NSG (Grupo de Seguridad en Red) a una interfaz de red?",
+    "respuesta": "Si, porque es medio administrable",
+    "incorrecta1": "No, porque sólo es una vista sin administración.",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Se puede asociar un NSG (Grupo de Seguridad en Red) a una red virtual?",
+    "respuesta": "No se puede porque es un recurso fuera de la red.",
+    "incorrecta1":"Si se puede porque es una interconexión de una red" ,
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Con que servicio de Azure puedes activar la conexión JUST IN TIME?",
+    "respuesta": "Azure Security Center",
+    "incorrecta1": "NSG",
+    "incorrecta2": "Azure Sentinel",
+    "incorrecta3": "Directivas de red",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Qué tipo de información puedes llegar a cifrar con Azure Information Protect?",
+    "respuesta": "Documentos y correos electrónicos",
+    "incorrecta1": "Imágnes",
+    "incorrecta2": "Blobs",
+    "incorrecta3": "Contenedores",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Cuál es el primer paso para poder utilizar Azure Disk Encryption?",
+    "respuesta": "Tener una cuenta de Azure Storage",
+    "incorrecta1": "Crear un almácen de claves en Azure Key Vault",
+    "incorrecta2": "Crear una clave de cifrado",
+    "incorrecta3": "Crear una directiva de Azure Information Protection",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿En qué modelo de servicio de nube se encuentra el uso del servicio de Azure Cosmos DB y que tipo de datos puede llegar a almacenar?",
+    "respuesta": "Es de tipo PaaS y se utiliza para datos sin estructura",
+    "incorrecta1": "Es un servicio sin servidor ",
+    "incorrecta2": "Es de tipo IaaS puesto que se puede configurar por medio de contraseña",
+    "incorrecta3": "Es un servicio tipo SaaS y sólo de debe de el acceso del usuario mediante una contraseña",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Para que se utiliza Azure ExpressRoute y que beneficios te ofrece?",
+    "respuesta": "Cuando se requiere un mayor ancho de banda con mayor seguridad por una conexión privada",
+    "incorrecta1": "Cuando no hay una ruta ",
+    "incorrecta2": "Cuando quieres tablas de rutas",
+    "incorrecta3": "Cuando requieres mayor propagación en red",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Cuál es la manera más eficiente de establecer un mejor filtrado de tráfico de red en Azure?",
+    "respuesta": "Utilizar un NSG",
+    "incorrecta1": "Utilizar sólo Azure Firewall",
+    "incorrecta2": "Utilizar tablas de rutas",
+    "incorrecta3": "Optimizar el firewall de Azure para conexiones WAN",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Con que servicio de Azure puedes supervisar amanezas por medio de sensores?",
+    "respuesta": "Azure Advanced Treat Protection",
+    "incorrecta1": "Azure Firewall",
+    "incorrecta2": "Azure Blobs",
+    "incorrecta3": "Azure Colas",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "Después de generar una máquina virtual, ¿que debes de configurar primero?",
+    "respuesta": "El Network Security Group (Grupo de Securidad en Red)",
+    "incorrecta1": "El puero de salida a la red",
+    "incorrecta2": "El grupo de recursos",
+    "incorrecta3": "El DNS",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Cuáles son los tipos de modelo de nube en los cuales puedes utilizar servidores físicos?",
+    "respuesta": "Nube privada y nube híbrida",
+    "incorrecta1": "Sólo en la nube privada",
+    "incorrecta2": "Sólo en la nube híbrida",
+    "incorrecta3": "En la nube privada,híbrida y pública",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Con Azure puedes tener flexibilidad entre los gastos de capital y los gastos de operación?",
+    "respuesta": "Si",
+    "incorrecta1": "No",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Si tienes dos máquinas virtuales B2S con las mismas caracteristicas, siempre van a tener el mismo costo de facturación por mes?",
+    "respuesta": "No, porque cada una puede tener un crecimiento horizontal y vertical diferente,dependiendo de su operación",
+    "incorrecta1": "Si, porque tienen las mismas características",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "Menciona dos soluciones en Azure que te sirvan para almacenar datos",
+    "respuesta": "Azure SQL Data Warehouse y Azure Data Lake",
+    "incorrecta1": "Azure Blobs y Azure Storage",
+    "incorrecta2": "Azure Data Lake y Azure Storage",
+    "incorrecta3": "Azure Containers y Azure Blobs",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Desde dónde puedes acceder al Administrador de Compilación de Azure",
+    "respuesta": "Azure Portal",
+    "incorrecta1": "Azure Firewall",
+    "incorrecta2": "Azure Power Shell",
+    "incorrecta3": "Desde el CLI de Azure",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Con que servicio de Azure puedes tener un ambiente portable para aplicaciones virtualizadas?",
+    "respuesta": "Azure Container Instances",
+    "incorrecta1": "Azure Logic Apps",
+    "incorrecta2": "Azure Monitor",
+    "incorrecta3": "Azure Web Apps",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Qué servicio en Azure te permite supervisar el estado de tus servicios?",
+    "respuesta": "Azure Monitor",
+    "incorrecta1": "Azure Firewall",
+    "incorrecta2": "Azure Sentinel",
+    "incorrecta3": "Azure Advisor",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Con que servicio en Azure puedes buscar máquinas virtuales preconfiguradas?",
+    "respuesta": "Azure Marketplace",
+    "incorrecta1": "Azure portal",
+    "incorrecta2": "Azure Express Route",
+    "incorrecta3": "Azure Monitor",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "Necesitas crear un recurso Azure que defina un dispositivo VPN en Azure.¿Qué recurso de Azure debes crear?",
+    "respuesta": "Crear un recurso Local Network Gateway",
+    "incorrecta1": "Utilizar sólo Azure Firewall",
+    "incorrecta2": "Utilizar tablas de rutas",
+    "incorrecta3": "Optimizar el firewall",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Cuáles responsabilidades te permite Azure eliminar cuando planeas migrar varios servidores a máquinas virtuales?",
+    "respuesta": "Sustituir el hardware de los servidores físicos y gestionar la seguridad",
+    "incorrecta1": "Generar un NSG",
+    "incorrecta2": "Utilizar tablas de rutas",
+    "incorrecta3": "Optimizar el firewall de Azure para conexiones WAN",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Qué servicio de Azure puedes genenerar una MFA (Autenticación de Múltiple Factor)?",
+    "respuesta": "Con Azure Active Directory Identify Protection",
+    "incorrecta1": "Con Azure AD",
+    "incorrecta2": "Con Azure Monitor",
+    "incorrecta3": "Con Azure Advisor",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Con qué servicio en Azure puedes enviar una alerta cuando un administrador detiene una máquina virtual?",
+    "respuesta": "Azure Monitor",
+    "incorrecta1": "Azure Firewall",
+    "incorrecta2": "Azure Advisor",
+    "incorrecta3": "Azure Active Directory",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Con el servicio de Azure Active Directory requieres implementar controladores de dominio en una máquina virtual?",
+    "respuesta": "No",
+    "incorrecta1": "Si",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "Cada cuenta de usuario en Azure Active Directory,¿se le puede asignar sólo una licencia de uso?",
+    "respuesta": "No",
+    "incorrecta1": "Si",
+        "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Con Azure Active Directory te provee un servicio de autenticación para los recursos alojados en Microsoft 365?",
+    "respuesta": "Si",
+    "incorrecta1": "No",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Con que servicio de Azure puedes filtrar el tráfico de red entre suscripciones de Azure y una red virtual?",
+    "respuesta": "Azure Firewall",
+    "incorrecta1": "Azure Express Route",
+    "incorrecta2":"Azure Active Directory",
+    "incorrecta3":"Azure Sentinel",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "Azure CLI, ¿es una aplicación compatible con sistemas operativos de Linux, Mac OS y Windows?",
+    "respuesta": "Si",
+    "incorrecta1": "No",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Cuál es la manera más eficiente de establecer un límite en el tráfico de entrada y salida de varias redes virtuales de Azure?",
+    "respuesta": "Creando un Azure Firewall",
+    "incorrecta1": "Utilizar un NSG",
+    "incorrecta2": "Utilizar tablas de rutas",
+    "incorrecta3": "Optimizar el firewall de Azure para conexiones WAN",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Con que servicio de Azure puedes ver recomendaciones de seguridad y recomendaciones de configuración óptima?",
+    "respuesta": "Azure Advisor",
+    "incorrecta1": "NSG",
+    "incorrecta2": "Azure Sentinel",
+    "incorrecta3": "Azure Active Directory",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "El plan de soporte estándard,¿viene incluido en las cuentas gratuitas de Azure?",
+    "respuesta": "No",
+    "incorrecta1": "Si",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "Es cierto que Azure, no te cobra el almacenamiento de un disco duro de una máquina virtual apagada",
+    "respuesta": "Si",
+    "incorrecta1": "No",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Es cierto que el soporte premium de Azure sólo es para las empresas que tengan un contratado de servicios?",
+    "respuesta": "Si",
+    "incorrecta1": "No",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Es cierto que el Servicio de Créditos Mensuales de Microsoft es sólo para compañías que tengan una suscripción de pago por lo que usas?",
+    "respuesta": "No",
+    "incorrecta1": "Si",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Es cierto que si Microsoft planea dejar de dar soporte a un servicio de Azure y dicho servicio no tiene un servicio sucesor, Microsoft te notificará sobre este cambio 12 meses antes de generar el cambio?",
+    "respuesta": "No",
+    "incorrecta1": "Si",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Qué servicio de Azure te permite virtualizar sistemas operativos antiguos?",
+    "respuesta": "Azure Virtual Machine",
+    "incorrecta1": "Azure Marketplace",
+    "incorrecta2": "Azure Policies",
+    "incorrecta3": "Azure Power Shell",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Qué estructura de almacenamiento en Azure, te permite realizar respaldos a discos no administrados?",
+    "respuesta": "Contenedores",
+    "incorrecta1": "Colas",
+    "incorrecta2": "Tablas",
+    "incorrecta3": "Azure Cosmo DB",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Cuál es el nivel de cuenta de Azure Storage que tiene latencia flexible durante 180 días?",
+    "respuesta": "Acceso de archivo",
+    "incorrecta1": "Acceso esporádico",
+    "incorrecta2": "Acceso frecuente",
+    "incorrecta3": "Nivel de cuenta",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  },
+  {
+    "pregunta": "¿Todas las cuentas de Azure expiran después de un periodo específico de tiempo?",
+    "respuesta": "Si",
+    "incorrecta1": "No",
+    "imagen": "image_question.png",
+    "objectFit": "cover"
+  }
+]
