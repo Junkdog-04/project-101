@@ -12,4 +12,4 @@ Por lo tanto la aplicación debe de funcionar sin problema alguno, sin embargo h
 - Establecer una arquitectura para trabajar de una mejor manera la funcionalidad de la aplicación. 
 - Verificar toda la funcionalidad del código por medio de pruebas unitarias.
 
-Sientete en confianza de mejorar tanto la interfaz como el código, recuerda que esto es un ejemplo para mejorar tanto en tú lógica de programación y en tú análisis.
+Siéntete en confianza de mejorar tanto la interfaz como el código, recuerda que esto es un ejemplo para mejorar tanto en tú lógica de programación y en tú análisis.
